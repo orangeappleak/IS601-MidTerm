@@ -1,6 +1,6 @@
 import pytest
 
-from app.plugins.subtract import SubtractCommand
+from app.plugins.calculations.subtract import SubtractCommand
 
 
 
