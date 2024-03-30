@@ -25,5 +25,3 @@ The CalculationHistory class utilizes the environment variable 'HISTORY_FILE_PAT
 
 - **Easier to Ask for Forgiveness than Permission (EAFP)**: This approach is adopted in classes like App, CommandHandler, and various command classes. Instead of checking conditions before executing commands, exceptions are handled gracefully.
 - **Look Before You Leap (LBYL)**: This approach is used in the CalculationHistory class, where conditions are checked before performing actions like loading, clearing, or deleting historical records.
-
-*(Note: Replace 'link_to_documentation' and 'link_to_video' with actual URLs to project documentation and video.)*
